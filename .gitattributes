@@ -2,5 +2,6 @@
 *.java linguist-detectable=true
 *.python linguist-detectable=false 
 *.js linguist-detectable=false
+*.kotlin linguist-detectable=false $
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false 
